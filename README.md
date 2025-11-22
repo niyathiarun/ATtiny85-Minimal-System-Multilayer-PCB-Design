@@ -93,6 +93,21 @@ This minimalist ATtiny85 board can be used for:
 | **J2** | GPIO/ISP breakout header |
 
 ---
+### 🛠 Tools Used
+- KiCad 9.0 for schematic & PCB design   
+- Gerber viewer for verification  
+
+---
+
+### 📚 Learnings
+- Designing a minimal microcontroller hardware system  
+- Power integrity: decoupling capacitors and filtering  
+- Reset circuitry design (pull-up + switch)  
+- Multilayer routing and stack-up basics  
+- Creating fabrication files (Gerber + drill)  
+- Schematic organization & PCB best practices
+  
+---
 
 ## 📁 **Repository Structure**
 
